@@ -1,0 +1,42 @@
+﻿Newtonsoft.Json
+PM> Install-Package Newtonsoft.Json -Version 10.0.2
+
+Resources in Applications
+https://msdn.microsoft.com/en-us/library/f45fce5x(v=vs.100).aspx
+
+How to embed and access resources by using Visual C#
+https://support.microsoft.com/en-us/help/319292/how-to-embed-and-access-resources-by-using-visual-c
+http://adrianmejia.com/blog/2011/07/18/cs-getmanifestresourcestream-gotcha/
+
+Creating Satellite Assemblies
+https://msdn.microsoft.com/en-us/library/21a15yht(v=vs.100).aspx
+
+MSBuild - This is Microsoft's equivalent of ANT. Project files are basically just a series of MSBuild tasks.
+WebDeploy - This is essentially your WAR/Tomcat equivalent, except that it creates deploy packages, and is meant for IIS.
+XML Transforms - You should never have to manually edit configuration by hand. Config transforms are essential if you have multiple environments you need to deploy to.
+http://stackoverflow.com/questions/11762163/net-equivalents-for-ant-and-war-files
+
+
+Cloud Foundry API
+http://apidocs.cloudfoundry.org/252/
+
+Catalog Metadata
+https://docs.cloudfoundry.org/services/catalog-metadata.html
+
+Example Service Brokers
+https://docs.cloudfoundry.org/services/examples.html
+
+Bluemix specific
+{
+The REQUEST / CREATE buttons are shown depending upon the plan type.  
+If the plan is Subscription and Reservable, then the REQUEST button is shown,  
+otherwise its always the "CREATE" button.  
+
+"subscription": true 
+"reservable": true
+ }
+
+ Asynchronous Operations
+ https://docs.cloudfoundry.org/services/api.html#asynchronous-operations
+ "asyncProvisioningSupported": true,
+

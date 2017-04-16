@@ -1,0 +1,136 @@
+﻿
+
+CloudFoundry
+
+Services
+https://docs.cloudfoundry.org/services/
+
+Service Broker API
+https://docs.cloudfoundry.org/services/api.html
+
+
+CF Components
+https://docs.cloudfoundry.org/concepts/architecture/
+
+
+Example Service Brokers
+https://docs.cloudfoundry.org/services/examples.html
+
+Orgs, Spaces, Roles, and Permissions
+https://docs.cloudfoundry.org/concepts/roles.html?cm_mc_uid=32662002430914882609976&cm_mc_sid_50200000=1488260997
+
+Cloud Foundry API
+http://apidocs.cloudfoundry.org/252/
+
+Catalog Metadata
+https://docs.cloudfoundry.org/services/catalog-metadata.html
+
+
+Cloud Foundry’s container-based architecture runs apps in any language on a variety of cloud services, including 
+Amazon Web Services (AWS), Microsoft Azure, Google Compute Platform (GCP), 
+OpenStack, VMware vSphere, VMware Photon, IBM SoftLayer and more.
+
+
+Applications deployed to Cloud Foundry access external resources via a Open Service Broker API
+https://github.com/openservicebrokerapi/servicebroker/
+
+
+Diego Design Notes
+https://github.com/cloudfoundry/diego-design-notes
+
+Diego Runtime Overview - Eric Malm, Pivotal
+https://www.youtube.com/watch?v=iv5EpheLLh0
+
+
+Running .Net Apps on Cloud Foundry: Windows vs. Core
+https://www.youtube.com/watch?v=u88AYbPqSEY
+
+Implementing Containers on Windows: A Deep Dive
+http://engineering.pivotal.io/post/windows-containerization-deep-dive/
+
+
+Diego Runtime Overview - Eric Malm, Pivotal
+https://www.youtube.com/watch?v=iv5EpheLLh0
+
+Do More with Your Apps: Unleashing the Power of the Cloud Controller V3 API
+https://www.youtube.com/watch?v=oFmqqBzK1DQ
+
+Service Broker API 
+https://docs.cloudfoundry.org/services/api.html
+https://docs.cloudfoundry.org/services/overview.html
+
+The Open Service Broker API project
+https://www.openservicebrokerapi.org/
+https://github.com/openservicebrokerapi/servicebroker/
+
+.NET Core Buildpack
+https://docs.cloudfoundry.org/buildpacks/dotnet-core/index.html
+
+.NET Configuration providers for Spring Cloud Config Server & CloudFoundry
+https://github.com/steelToeoSS
+
+Diego Runtime Overview - Eric Malm, Pivotal
+https://www.youtube.com/watch?v=iv5EpheLLh0
+
+
+/////////////////
+https://console.ng.bluemix.net/
+
+### CF
+https://docs.cloudfoundry.org/cf-cli/cf-help.html
+
+
+
+BlueMix
+{
+https://console.ng.bluemix.net/docs/services/onboarding/index.html#service-broker-definition
+
+Bluemix integration
+https://developer.ibm.com/marketplace/docs/integrating-bluemix/
+
+Onboarding to the Bluemix Catalog.
+https://developer.ibm.com/marketplace/wp-content/uploads/sites/30/BluemixOnboarding_Solo_V2.pdf
+If you are interested in including your offering in the IBM Bluemix Catalog, please send an email to 
+joinnow@us.ibm.com with the content requested in that document
+
+IBM Marketplace APIs
+https://developer.ibm.com/marketplace/docs/api-help/
+
+IBM Marketplace APIs
+https://developer.ibm.com/api/view/id-803:title-IBM_Marketplace_APIs
+
+Catalog APIs
+https://developer.ibm.com/marketplace/docs/api-help/catalog-api/
+
+Bluemix APIs
+https://developer.ibm.com/marketplace/docs/api-help/bluemix-apis/
+
+Account APIs
+https://developer.ibm.com/marketplace/docs/api-help/subscription-apis/
+
+Service Controller
+https://developer.ibm.com/marketplace/docs/faq/adding-service/service-controller/
+
+echnical Articles
+https://developer.ibm.com/marketplace/docs/technical-scenarios/
+
+CLI and dev tools
+https://console.ng.bluemix.net/docs/cli/index.html
+
+Three Things Business Partners Should Know: Service Integration
+https://developer.ibm.com/marketplace/2014/10/07/top-3-things-ibm-cloud-marketplace-service-integration/
+
+See also
+https://console.ng.bluemix.net/docs/services/PitneyBowes/index.html#gettingstarted
+https://console.ng.bluemix.net/docs/services/apiconnect/index.html
+}
+
+Plugins
+{
+https://console.ng.bluemix.net/docs/cli/index.html#cli
+http://clis.ng.bluemix.net/ui/home.html
+
+https://plugins.ng.bluemix.net/ui/repository.html
+https://plugins.ng.bluemix.net/ui/repository.html#bluemix-plugins
+}
+
